@@ -1,0 +1,9 @@
+token:
+  confirmation: 98f8a44d
+  access: c8243622fd26e18db78fa70fa78981a6bd88c3a11566c1443d7bb5e87e42c14076e84567b09a3f1278ce9
+
+secret:
+  key: secretsecretkey
+
+server:
+  port: 8080
